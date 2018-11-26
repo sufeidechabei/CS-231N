@@ -1,2 +1,2 @@
 # mycs231N
-It's the assignment of cs23100
+It's the assignment of cs2310
