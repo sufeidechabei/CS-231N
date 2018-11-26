@@ -1,2 +1,2 @@
 # mycs231N
-It's the assignment of cs231000000
+It's the assignment of cs23100000
